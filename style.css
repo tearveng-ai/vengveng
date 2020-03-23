@@ -91,3 +91,9 @@ h1  {
     background-color: #ddd;
     color: black;
 }
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: aqua;
+    color: black;
+}
